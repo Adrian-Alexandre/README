@@ -3,7 +3,7 @@
 ![Adrian GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adrian-Alexandre&show_icons=true&theme=radical)
 
 ## 🚀 Sobre mim
-Atualmente atuo como técnico de TI e venho adquirindo conhecimentos em desenvolvimento de software.
+Atualmente atuo com Service Desk, porém minha grande paixão é progamação, principalmente focada a desenvolvimento de jogos, estou sempre adquirindo conhecimentos e me desenvolvendo para sempre melhorar.
 
 
 ## 🛠 Tecnologias
@@ -14,9 +14,9 @@ Atualmente atuo como técnico de TI e venho adquirindo conhecimentos em desenvol
 
 ## 💻 Habilidades
 
-👩‍💻 Trabalho atualmente na empresa Conex;ao Telecom & Informática LTDA.
+👩‍💻 Trabalho atualmente na empresa Algar Tech.
 
-🧠 Estou aprendendo a programar em C#.
+🧠 Desenvolvo Games na unity e utilizo C#.
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrian-alexandre/)
